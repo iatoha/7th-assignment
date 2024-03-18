@@ -1,87 +1,86 @@
 [
-    {
-      "recipe_id": 1,
-      "recipe_name": "Chicken Stir Fry",
-      "short_description": "A delicious and easy-to-make the chicken stir fry",
-      "ingredients": [
-        "550 g chicken",
-        "120 ml soy sauce",
-        "200 g basil leaf",
-        "400 g mushroom"
-      ],
-      "preparing_time": "30 min",
-      "calories": "320 calorie",
-      "recipe_image": "https://media.istockphoto.com/id/617352836/photo/stir-fry-with-chicken.jpg?s=612x612&w=0&k=20&c=W_x_39ggrwzmcdWBZO4e4J440a645UPEAdzGv29tlxU="
-    },
-    {
-      "recipe_id": 2,
-      "recipe_name": "Vegetable Pasta",
-      "short_description": "A comforting pasta dish loaded with vegetables",
-      "ingredients": [
-        "300 g pasta",
-        "2 tomatoes, diced",
-        "1 zucchini, sliced",
-        "1 bell pepper, diced"
-      ],
-      "preparing_time": "25 min",
-      "calories": "250 calorie",
-      "recipe_image": "https://media.istockphoto.com/id/509409312/photo/whole-wheat-fusilli-pasta-with-vegetables.jpg?s=612x612&w=0&k=20&c=Dwmq0NgYiA7oZcULyZll-AvDA9FW-XWD6sqSWLCnHjE="
-    },
-    {
-      "recipe_id": 3,
-      "recipe_name": "Greek Salad",
-      "short_description": "A refreshing salad with ectra Mediterranean flavors ",
-      "ingredients": [
-        "200 g lettuce",
-        "1 cucumber, sliced",
-        "100 g feta cheese",
-        "50 g olives"
-      ],
-      "preparing_time": "15 min",
-      "calories": "180 calorie",
-      "recipe_image": "https://media.istockphoto.com/id/1461256163/photo/feta-cheese-salad-on-wooden-table.jpg?s=612x612&w=0&k=20&c=JISWAr9aTfUdLkgoR2rSWQN-ZzfQvOrhG9stauCUqSE="
-    },
-    {
-      "recipe_id": 4,
-      "recipe_name": "Banana Smoothie",
-      "short_description": "A creamy and nutritious made with ripe bananas",
-      "ingredients": [
-        "2 ripe bananas",
-        "250 ml milk",
-        "100 g yogurt",
-        "1 tbsp honey"
-      ],
-      "preparing_time": "10 min",
-      "calories": "200 calorie",
-      "recipe_image": "https://media.istockphoto.com/id/1364301954/photo/banana-smoothie-with-milk-banana-and-oatmeal.jpg?s=612x612&w=0&k=20&c=SZ6xuOljhuWp1nDnxWRsl1f17YDeV56jRQkFuPA-SJI="
-    },
-    {
-      "recipe_id": 5,
-      "recipe_name": "Mushroom Risotto",
-      "short_description": "A rich and creamy dish with earthy mushrooms",
-      "ingredients": [
-        "300 g Arborio rice",
-        "500 g mushrooms",
-        "1 onion, chopped",
-        "2 cloves garlic, minced"
-      ],
-      "preparing_time": "40 min",
-      "calories": "350 calorie",
-      "recipe_image": "https://media.istockphoto.com/id/1369183332/photo/risotto-with-brown-champignon-mushrooms.jpg?s=612x612&w=0&k=20&c=hXubXk9pxjZbSR436lNbNWMrbGd37Y3v3DaopBoU84M="
-    },
-    {
-      "recipe_id": 6,
-      "recipe_name": "Grilled Salmon",
-      "short_description": "Flavorful grilled salmon fillets with a hint of lemon",
-      "ingredients": [
-        "4 salmon fillets",
-        "2 tbsp olive oil",
-        "1 lemon, sliced",
-        "Salt and pepper to taste"
-      ],
-      "preparing_time": "20 min",
-      "calories": "280 calorie",
-      "recipe_image": "https://media.istockphoto.com/id/1305251323/photo/fried-salmon-fillet-steaks-on-a-wooden-board-with-thyme-dark-wooden-background-top-view.jpg?s=612x612&w=0&k=20&c=ctBwoVERBWzw-NCtATYT1OUk9uRKzejPXpOLZjeox94="
-  }
-  ]
-  
+  {
+    "recipe_id": 1,
+    "recipe_name": "Chicken Stir Fry",
+    "short_description": "A delicious and easy-to-make the chicken stir fry",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calorie",
+    "recipe_image": "https://media.istockphoto.com/id/617352836/photo/stir-fry-with-chicken.jpg?s=612x612&w=0&k=20&c=W_x_39ggrwzmcdWBZO4e4J440a645UPEAdzGv29tlxU="
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Vegetable Pasta",
+    "short_description": "A comforting pasta dish loaded with vegetables",
+    "ingredients": [
+      "300 g pasta",
+      "2 tomatoes, diced",
+      "1 zucchini, sliced",
+      "1 bell pepper, diced"
+    ],
+    "preparing_time": "25 min",
+    "calories": "250 calorie",
+    "recipe_image": "https://media.istockphoto.com/id/509409312/photo/whole-wheat-fusilli-pasta-with-vegetables.jpg?s=612x612&w=0&k=20&c=Dwmq0NgYiA7oZcULyZll-AvDA9FW-XWD6sqSWLCnHjE="
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Greek Salad",
+    "short_description": "A refreshing salad with ectra Mediterranean flavors ",
+    "ingredients": [
+      "200 g lettuce",
+      "1 cucumber, sliced",
+      "100 g feta cheese",
+      "50 g olives"
+    ],
+    "preparing_time": "15 min",
+    "calories": "180 calorie",
+    "recipe_image": "https://media.istockphoto.com/id/1461256163/photo/feta-cheese-salad-on-wooden-table.jpg?s=612x612&w=0&k=20&c=JISWAr9aTfUdLkgoR2rSWQN-ZzfQvOrhG9stauCUqSE="
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Banana Smoothie",
+    "short_description": "A creamy and nutritious made with ripe bananas",
+    "ingredients": [
+      "2 ripe bananas",
+      "250 ml milk",
+      "100 g yogurt",
+      "1 tbsp honey"
+    ],
+    "preparing_time": "10 min",
+    "calories": "200 calorie",
+    "recipe_image": "https://media.istockphoto.com/id/1364301954/photo/banana-smoothie-with-milk-banana-and-oatmeal.jpg?s=612x612&w=0&k=20&c=SZ6xuOljhuWp1nDnxWRsl1f17YDeV56jRQkFuPA-SJI="
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Mushroom Risotto",
+    "short_description": "A rich and creamy dish with earthy mushrooms",
+    "ingredients": [
+      "300 g Arborio rice",
+      "500 g mushrooms",
+      "1 onion, chopped",
+      "2 cloves garlic, minced"
+    ],
+    "preparing_time": "40 min",
+    "calories": "350 calorie",
+    "recipe_image": "https://media.istockphoto.com/id/1369183332/photo/risotto-with-brown-champignon-mushrooms.jpg?s=612x612&w=0&k=20&c=hXubXk9pxjZbSR436lNbNWMrbGd37Y3v3DaopBoU84M="
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Grilled Salmon",
+    "short_description": "Flavorful grilled salmon fillets with a hint of lemon",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 tbsp olive oil",
+      "1 lemon, sliced",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "20 min",
+    "calories": "280 calorie",
+    "recipe_image": "https://media.istockphoto.com/id/1305251323/photo/fried-salmon-fillet-steaks-on-a-wooden-board-with-thyme-dark-wooden-background-top-view.jpg?s=612x612&w=0&k=20&c=ctBwoVERBWzw-NCtATYT1OUk9uRKzejPXpOLZjeox94="
+}
+]

@@ -12,7 +12,7 @@ function App() {
       if(!isExist){
         setCarts( [...carts, course]);
       }else{
-        toast("Already Add") 
+        toast("no need you added already") 
     }
   };
 
@@ -24,24 +24,13 @@ function App() {
   return (
     <>
     <div>
-          {/* Nav section */}
+          {/* Navbar section */}
           <div className="navbar bg-base-100">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex="0" role="button" className="btn btn-ghost lg:hidden">
               <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
             </div>
-            <ul tabIndex="0" className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-              <li><a>home</a></li>
-              <li>
-                <a>Parent</a>
-                <ul className="p-2">
-                  <li><a>Submenu 1</a></li>
-                  <li><a>Submenu 2</a></li>
-                </ul>
-              </li>
-              <li><a>Item 3</a></li>
-            </ul>
           </div>
           <a className="btn btn-ghost text-2xl font-bold">Recipe Calories</a>
         </div>
@@ -71,10 +60,10 @@ function App() {
         </div>
       </div>
 
-      {/* banneer section */}
+      {/* baneer section */}
           <section>
             <div className="banner-container">
-                <div className="card banner-card lg:card-side bg-base-100 shadow-xl  h-[550px] lg:py-36 lg:px-56 lg:gap-48">
+                <div className="card baner-card lg:card-side bg-base-100 shadow-xl  h-[550px] lg:py-36 lg:px-56 lg:gap-48">
                     <div >
                         <div className="">
                           <h1 className='text-center text-white text-5xl font-bold'>Discover an exceptional cooking class tailored for you!</h1>
@@ -88,14 +77,14 @@ function App() {
                   </div>
             </div>
         </section>
-          {/*  main section */}
+          {/*  main part section */}
         <section className=' my-28'>
           <div>
             <h1 className='text-center text-4xl font-semibold'>Our Recipes</h1>
             <p className=' text-center font-normal my-4 lg:px-56'>Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus vulputate netus pharetra rhoncus. Eget urna volutpat curabitur elementum mauris aenean neque. </p>
           </div>
         </section>
-     {/* react part */}
+     {/* react */}
          <div className=' lg:grid lg:grid-cols-12 lg:w-[1100px] gap-5'>
             <div className=' lg:col-span-8'>
               <Courses handleCart={handleCart}></Courses>
@@ -111,3 +100,4 @@ function App() {
 }
 
 export default App
+
